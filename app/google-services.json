@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "194400257977",
+    "firebase_url": "https://avian-explorer-625de-default-rtdb.firebaseio.com",
+    "project_id": "avian-explorer-625de",
+    "storage_bucket": "avian-explorer-625de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194400257977:android:0d5b2fb65e03c1d5ef5868",
+        "android_client_info": {
+          "package_name": "com.example.AllAroundTheBirds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6uW5d_rF_DTO1GfHQ9ExJQkYK9EBZrjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194400257977:android:47640b242d2e66a7ef5868",
+        "android_client_info": {
+          "package_name": "com.example.avianexplorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6uW5d_rF_DTO1GfHQ9ExJQkYK9EBZrjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NavDrawerStyle" parent="@style/Widget.Design.NavigationView">
+        <item name="android:background">@color/purple</item>
+    </style>
+</resources>

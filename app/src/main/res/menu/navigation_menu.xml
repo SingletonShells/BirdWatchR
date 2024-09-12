@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_option1"
+            android:title="Feed" />
+        <item
+            android:id="@+id/nav_option2"
+            android:title="Find Species"/>
+        <item
+            android:id="@+id/nav_option3"
+            android:title="Hotspots"/>
+        <item
+            android:id="@+id/nav_option4"
+            android:title="Save Sighting"/>
+        <item
+            android:id="@+id/nav_option5"
+            android:title="Challenges"/>
+        <item
+            android:id="@+id/nav_option6"
+            android:title="Settings"/>
+        <item
+            android:id="@+id/nav_option7"
+            android:title="Log out"/>
+    </group>
+</menu>
